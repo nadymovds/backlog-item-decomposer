@@ -73,6 +73,6 @@ Check the [`examples/`](examples/) directory for end-to-end decomposition bluepr
 
 Have another decomposition pattern, heuristic, or real-world case study? Contributions, PRs, and suggestions are welcome!
 
-- **Author:** Denis Nadymov — [LinkedIn](https://www.linkedin.com/) | [Medium](https://medium.com/@nadymov.ds)
+- **Author:** Denis Nadymov — [LinkedIn](https://www.linkedin.com/)
 - **Repository:** [github.com/nadymovds/backlog-item-decomposer](https://github.com/nadymovds/backlog-item-decomposer)
 - **License:** [MIT](LICENSE)
